@@ -1,0 +1,10 @@
+The problems that we faced during the its production:
+1.	We start doing our project late
+2.	Sir gave us the assignment before Kalipujo
+3.	We first presented it to 22/11/22
+4.	There was many issues that sir found
+5.	We don’t need to annotate a gene
+6.	We just need to find communities in a gene
+7.	Gene Pathways/KEGG/modularity is important concept
+8.	Topological Features are?
+9.	Internal and External indexes?

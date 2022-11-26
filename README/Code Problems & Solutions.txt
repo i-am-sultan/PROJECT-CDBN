@@ -1,0 +1,4 @@
+Coding Problem and Solutions:
+
+1.	Imported Modules: matplolib, community==1.0.0b1, python-louvain-0.16, networkx==2.8.8
+2.	ERROR: Could not build wheels for pycombo, which is required to install pyproject.toml-based projects
